@@ -1,0 +1,4 @@
+﻿  mastermind.cpp
+C:\Users\tatsu\source\repos\7- Mastermind && Mastermind até dizer chega\7- Mastermind && Mastermind até dizer chega\mastermind.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\tatsu\source\repos\7- Mastermind && Mastermind até dizer chega\7- Mastermind && Mastermind até dizer chega\mastermind.cpp(9,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  7- Mastermind && Mastermind até dizer chega.vcxproj -> C:\Users\tatsu\source\repos\7- Mastermind && Mastermind até dizer chega\x64\Debug\7- Mastermind && Mastermind até dizer chega.exe
