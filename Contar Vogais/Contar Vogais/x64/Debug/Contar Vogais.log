@@ -1,0 +1,3 @@
+﻿  ContarVogais.cpp
+C:\Users\tatsu\source\repos\Contar Vogais\Contar Vogais\ContarVogais.cpp(4,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Contar Vogais.vcxproj -> C:\Users\tatsu\source\repos\Contar Vogais\x64\Debug\Contar Vogais.exe
