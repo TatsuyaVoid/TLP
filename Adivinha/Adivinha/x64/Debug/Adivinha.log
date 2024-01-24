@@ -1,0 +1,4 @@
+﻿  Adivinha.cpp
+C:\Users\tatsu\source\repos\Adivinha\Adivinha\Adivinha.cpp(6,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\tatsu\source\repos\Adivinha\Adivinha\Adivinha.cpp(9,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Adivinha.vcxproj -> C:\Users\tatsu\source\repos\Adivinha\x64\Debug\Adivinha.exe
