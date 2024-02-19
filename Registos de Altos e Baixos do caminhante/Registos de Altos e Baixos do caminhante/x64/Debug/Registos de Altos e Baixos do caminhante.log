@@ -1,0 +1,4 @@
+﻿  origem.cpp
+C:\Users\tatsu\source\repos\Registos de Altos e Baixos do caminhante\Registos de Altos e Baixos do caminhante\origem.cpp(1,9): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\tatsu\source\repos\Registos de Altos e Baixos do caminhante\Registos de Altos e Baixos do caminhante\origem.cpp(4,12): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Registos de Altos e Baixos do caminhante.vcxproj -> C:\Users\tatsu\source\repos\Registos de Altos e Baixos do caminhante\x64\Debug\Registos de Altos e Baixos do caminhante.exe
