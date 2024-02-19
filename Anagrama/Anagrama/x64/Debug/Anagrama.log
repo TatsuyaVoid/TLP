@@ -1,0 +1,3 @@
+﻿  Anagrama.cpp
+C:\Users\tatsu\source\repos\Anagrama\Anagrama\Anagrama.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Anagrama.vcxproj -> C:\Users\tatsu\source\repos\Anagrama\x64\Debug\Anagrama.exe

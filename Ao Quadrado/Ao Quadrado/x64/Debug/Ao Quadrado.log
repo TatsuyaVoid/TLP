@@ -1,0 +1,3 @@
+﻿  AoQuadrado.cpp
+C:\Users\tatsu\source\repos\Ao Quadrado\Ao Quadrado\AoQuadrado.cpp(4,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Ao Quadrado.vcxproj -> C:\Users\tatsu\source\repos\Ao Quadrado\x64\Debug\Ao Quadrado.exe
