@@ -1,0 +1,4 @@
+﻿  ACifraDeCésar.cpp
+C:\Users\tatsu\source\repos\A Cifra de César\A Cifra de César\ACifraDeCésar.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\tatsu\source\repos\A Cifra de César\A Cifra de César\ACifraDeCésar.cpp(8,17): warning C4101: 'base': variável local não referenciada
+  A Cifra de César.vcxproj -> C:\Users\tatsu\source\repos\A Cifra de César\x64\Debug\A Cifra de César.exe

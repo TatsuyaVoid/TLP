@@ -1,0 +1,22 @@
+		#include<iostream>
+		#include<locale.h>
+		#include<string>
+		using namespace std;
+		void main() {
+			setlocale(LC_ALL, "Portuguese");
+			string frase, encriptado;
+			int codigo, i, j;
+			cout << "Diga uma frase para ser encriptada: ";
+			getline(cin, frase);
+			cout << "Diz um número para encriptar o teu texto: ";
+			cin >> codigo;
+			for (i = 0; i < frase.size(); i++) {
+				char caracter = frase[i];
+				if (isalpha(caracter)) {
+					char base = isupper(caracter) ? 'A' : 'a'; 
+					caracter = base + (caracter - base + codigo) % 26;
+				}
+				encriptado += caracter;
+			}	
+			cout << "Texto encriptado: " << encriptado << "\n";
+		}
