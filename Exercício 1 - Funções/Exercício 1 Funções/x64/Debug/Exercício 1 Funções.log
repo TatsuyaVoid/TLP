@@ -1,0 +1,6 @@
+﻿  funções1.cpp
+C:\Users\tatsu\source\repos\Exercício 1 Funções\Exercício 1 Funções\funções1.cpp(9,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\tatsu\source\repos\Exercício 1 Funções\Exercício 1 Funções\funções1.cpp(30,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\tatsu\source\repos\Exercício 1 Funções\Exercício 1 Funções\funções1.cpp(32,41): warning C4101: 'maior': variável local não referenciada
+C:\Users\tatsu\source\repos\Exercício 1 Funções\Exercício 1 Funções\funções1.cpp(32,34): warning C4101: 'menor': variável local não referenciada
+  Exercício 1 Funções.vcxproj -> C:\Users\tatsu\source\repos\Exercício 1 Funções\x64\Debug\Exercício 1 Funções.exe
