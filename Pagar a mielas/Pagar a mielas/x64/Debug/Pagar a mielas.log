@@ -1,0 +1,3 @@
+﻿  pagaramielas.cpp
+C:\Users\tatsu\source\repos\Pagar a mielas\Pagar a mielas\pagaramielas.cpp(7,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Pagar a mielas.vcxproj -> C:\Users\tatsu\source\repos\Pagar a mielas\x64\Debug\Pagar a mielas.exe
